@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "module"
-version = "0.1.0"
+name = "kapymods"
+version = "1.0.0"
 description = ""
 authors = ["si.sung <si.sung@katchers.co.kr>"]
 readme = "README.md"
