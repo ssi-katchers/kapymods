@@ -1,1 +1,1 @@
-from .math_utils import add
+from module.math_utils import add

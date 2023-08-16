@@ -4,11 +4,12 @@ version = "0.1.0"
 description = ""
 authors = ["si.sung <si.sung@katchers.co.kr>"]
 readme = "README.md"
+packages = [{include = "module"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 
 
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core", "setuptools"]
 build-backend = "poetry.core.masonry.api"
